@@ -1,0 +1,69 @@
+/*** Table of Contens***/
+/*
+1.0  Global 
+2.0  index.html Specific
+3.0  contact.html Specific
+/*
+
+/*** 1.0 Global ***/
+.header-nav{
+    border-bottom: 5px solid teal; 
+}
+
+.navbar-brand{
+    background-color: teal; 
+    font-weight: bold; 
+    font-family:'Times New Roman', Times, serif;
+}
+.navbar-brand p{
+    color: white; 
+    margin: 0; 
+}
+
+.jumbotron{
+    background-image: url("../images/background_all.jpg"); 
+    background-repeat: repeat;
+    height: 100%; 
+}
+
+.container-margin{
+    margin-bottom: 200px; 
+}
+
+.container-background{
+    border: 5px solid teal; 
+    background-color: white; 
+}
+
+.title-font{
+    color:teal; 
+    font-weight:bold; 
+    font-family:'Times New Roman', Times, serif;
+}
+
+.title-font h1{
+    margin-top: 10px; 
+}
+
+.sticky-footer{
+    background-color: white;
+    border-top: 5px solid teal; 
+}
+
+.footer-icon{
+    width: 50px; 
+    height: 50px;
+}
+/*** 2.0 indext.html Specific */
+
+.head-shot{
+    max-width: 30%; 
+    height: auto;
+}
+
+/*** 3.0 contact.html Specific */
+
+.btn-format{
+    background-color: teal; 
+    border: none;
+}
