@@ -88,12 +88,15 @@
     max-width: 540px;
     border-width: 1px;
     border-color: teal; 
-    margin-left: 15px; 
-    margin-right: 15px; 
     margin-top: 15px; 
 }
 
 .portfolio-img{
-    margin-left: 5px; 
-  
+    padding-left: 10px;
+    padding-right: 10px;  
+}
+
+.portfolio-links{
+    text-align: center;
+    align-self: center;
 }
