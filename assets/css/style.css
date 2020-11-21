@@ -34,7 +34,6 @@
 .container-background{
     border: 5px solid teal; 
     background-color: white; 
-    /* margin-bottom: 10px; */
 }
 
 .title-font{
@@ -107,11 +106,24 @@
     font-family:'Times New Roman', Times, serif;
 }
 
-/* .contact-info-col{
-    margin-left: 20px;
-} */
-
 .card-contact-info{
     width: 20rem;
+    margin-top: 10px; 
+}
+
+.proj-title{
+    color:teal; 
+    font-weight:bold; 
+    font-family:'Times New Roman', Times, serif;
+}
+
+.info-card-placement{
+    padding: 0%;
+}
+
+.about-me-container{
+    border: 5px solid teal; 
+    background-color: white; 
+    margin-right: 20px;
     margin-top: 10px; 
 }
