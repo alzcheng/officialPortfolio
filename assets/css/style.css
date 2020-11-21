@@ -100,3 +100,18 @@
     text-align: center;
     align-self: center;
 }
+
+.contact-labels{
+    color:teal; 
+    font-weight:bold; 
+    font-family:'Times New Roman', Times, serif;
+}
+
+/* .contact-info-col{
+    margin-left: 20px;
+} */
+
+.card-contact-info{
+    width: 20rem;
+    margin-top: 10px; 
+}
