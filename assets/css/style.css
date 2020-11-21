@@ -24,15 +24,17 @@
     background-image: url("../images/background_all.jpg"); 
     background-repeat: repeat;
     height: 100%; 
+    margin-bottom: 0px;
 }
 
-.container-margin{
+/* .container-margin{
     margin-bottom: 200px; 
-}
+} */
 
 .container-background{
     border: 5px solid teal; 
     background-color: white; 
+    /* margin-bottom: 10px; */
 }
 
 .title-font{
@@ -54,6 +56,20 @@
     width: 50px; 
     height: 50px;
 }
+
+.contact-title{
+    color:teal; 
+    font-weight:bold; 
+    font-family:'Times New Roman', Times, serif;
+}
+
+.list-group-item{
+    border: none;
+} 
+
+.card{
+    border: 5px solid teal; 
+}
 /*** 2.0 indext.html Specific */
 
 .head-shot{
@@ -66,4 +82,18 @@
 .btn-format{
     background-color: teal; 
     border: none;
+}
+
+.portfolio-element{
+    max-width: 540px;
+    border-width: 1px;
+    border-color: teal; 
+    margin-left: 15px; 
+    margin-right: 15px; 
+    margin-top: 15px; 
+}
+
+.portfolio-img{
+    margin-left: 5px; 
+  
 }
